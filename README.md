@@ -60,19 +60,13 @@ Splitwise-style full-stack app for shared expenses in groups and one-on-one.
 ---
 
 ### GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravshukla490&theme=github-compact&hide_border=true&area=true" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravshukla490&show_icons=true&hide_border=true&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gauravshukla490&hide_border=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravshukla490&layout=compact&hide_border=true&theme=dark" />
 </p>
 
 ---
