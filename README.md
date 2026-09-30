@@ -1,5 +1,5 @@
 <h2 align="center">
-  shukla gaurav
+  Gaurav Shukla
 </h2>
 
 <p align="center">
@@ -9,12 +9,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-shukla-8a1779322/">LinkedIn</a> ·
   <a href="https://x.com/GauravS80778672">X</a> ·
-  <a href="https://YOUR_PORTFOLIO_URL">Portfolio</a> ·
   <a href="mailto:shuklaagaurav29@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack+%7C+TypeScript+%7C+Node.js;Building+with+LLMs+and+GenAI;B.Tech+CSE+(Data+Science)+%40+BPIT+Delhi;Open+to+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack+%7C+TypeScript+%7C+Node.js;Building+with+LLMs+and+GenAI;B.Tech+ECE+%40+BPIT+Delhi;Open+to+internships" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,8 +26,8 @@ I like building things end to end: designing the database, writing the API, and 
 Lately I've been focused on **GenAI engineering** — using LLMs for structured data extraction and pairing them with
 reliable, deterministic backend logic so the output can actually be trusted.
 
-- 🔭 Currently building **CodeLens**.
-- 🌱 Learning: LLM, structured outputs, AI agents, system design
+- 🔭 Currently building **CodeLens**
+- 🌱 Learning: LLMs, structured outputs, AI agents, system design
 - 💼 **Open to internships** — reach out!
 
 ---
@@ -56,22 +55,22 @@ Splitwise-style full-stack app for shared expenses in groups and one-on-one.
 - GitHub OAuth sign-in with Better Auth, protected dashboard routes
 - Prisma 7 with the Postgres driver adapter on serverless NeonDB
 
-`Next.js` `TypeScript` `Better Auth` `Prisma` `NeonDB` `TanStack Query` `shadcn/ui``rag`
+`Next.js` `TypeScript` `Better Auth` `Prisma` `NeonDB` `TanStack Query` `shadcn/ui` `RAG`
 
-
+---
 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravshukla490&show_icons=true&hide_border=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=gauravshukla490&hide_border=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravshukla490&layout=compact&hide_border=true&theme=dark" />
 </p>
 
 ---
@@ -83,5 +82,5 @@ Always happy to talk about projects, internships or GenAI.
 - 📧 **shuklaagaurav29@gmail.com**
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=gauravshukla490&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </p>
