@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/gaurav-shukla-8a1779322/">LinkedIn</a> ·
   <a href="https://x.com/GauravS80778672">X</a> ·
   <a href="https://YOUR_PORTFOLIO_URL">Portfolio</a> ·
   <a href="mailto:shuklaagaurav29@gmail.com">Email</a>
@@ -21,7 +21,7 @@
 
 ### About
 
-I'm a final-year **B.Tech CSE (Data Science)** student at **Bhagwan Parshuram Institute of Technology, Delhi**.
+I'm a final-year **B.Tech ECE** student at **Bhagwan Parshuram Institute of Technology, Delhi**.
 
 I like building things end to end: designing the database, writing the API, and shipping the UI that sits on top.
 Lately I've been focused on **GenAI engineering** — using LLMs for structured data extraction and pairing them with
